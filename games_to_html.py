@@ -42,11 +42,7 @@ $CONTRL SCFTYP=UHF MAXIT=200 RUNTYP=OPTIMIZE
  $GUESS  GUESS=HUCKEL  $END
 
  $DATA
-   
-  C1
-O     8.0     0.00000     0.00000     0.07000
-H     1.0    -0.76000     0.00000    -0.53000
-H     1.0     0.76000     0.00000    -0.53000
+ 
  $END
 """
 
